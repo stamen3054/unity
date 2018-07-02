@@ -64,11 +64,11 @@
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/YW050121/myself/side-project/unity/roll-a-ball-game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/YW050121/myself/side-project/unity/roll-a-ball-game/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/YW050121/myself/side-project/unity/roll-a-ball-game/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Users/YW050121/myself/Unity3D/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
